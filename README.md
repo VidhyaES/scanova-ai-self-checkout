@@ -125,12 +125,6 @@ Total amount
 
 ---
 
-🖥️ Screenshots
-
-> (Upload your screenshots in GitHub → Add links here)
-
-
-
 Real-time scanning interface
 
 Shopping cart
