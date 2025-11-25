@@ -21,15 +21,6 @@ This project integrates:
 
 ---
 
-🎥 Demo Video
-
-> (Add your GitHub video or LinkedIn project link here)
-
-
-
-
----
-
 ✨ Features
 
 Real-time produce scanning using webcam
